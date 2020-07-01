@@ -1,10 +1,16 @@
-### Hi there 👋
+## Profiles
+ - [Code::Stats](https://codestats.net/users/Suk0m8u)
+ - [DeviantArt](https://www.deviantart.com/suk0m8u)
+ - [SoundCloud](https://soundcloud.com/suk0m8u)
+ - [YouTube](https://www.youtube.com/channel/UC0aPpENmHMaXJDJXcafXO1A)
+ - [Facebook](https://www.facebook.com/viviri90)
 
 <!--
 **vivi90/vivi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
