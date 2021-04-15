@@ -1,4 +1,4 @@
-## Profiles
+## *a.k.a.* Suk0m8u
  - [Code::Stats](https://codestats.net/users/Suk0m8u)
  - [DeviantArt](https://www.deviantart.com/suk0m8u)
  - [SoundCloud](https://soundcloud.com/suk0m8u)
